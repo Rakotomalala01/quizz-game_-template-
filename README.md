@@ -24,8 +24,8 @@ Everything is set up and ready to go — just start building!
 ## 🛠️ Getting Started
 
 ```bash
-pnpm install      # or yarn / npm install
-pnpm dev          # start the dev server
+npm install      # or yarn / npm install
+npm run dev          # start the dev server
 ```
 
 Open your browser at `http://localhost:5173`
